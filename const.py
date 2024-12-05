@@ -21,7 +21,7 @@ START_KB = InlineKeyboardMarkup(
             InlineKeyboardButton('⚠️ ʜᴇʟᴘ', callback_data='help_cb'),
             InlineKeyboardButton('⚙️ ᴀʙᴏᴜᴛ', callback_data='about_cb')
             ],[
-            InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ', url='https://t.me/tomcinemahubbot?startgroup=true')           
+            InlineKeyboardButton('➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ', url='https://t.me/FLASH_CINEMABOT?startgroup=true')           
         ]
     ]
 )
@@ -51,7 +51,7 @@ ST_HELP_MSG = """
 - __If List, bot will return results in list format__
 - __If HyperLink, bot will return results in hyperlink format__"""
 
-ABOUT_MSG = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: <a href='https://t.me/tomcinemahubbot'>TOM BOT</a>
+ABOUT_MSG = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: <a href='https://t.me/FLASH_CINEMABOT'>FLASH BOT</a>
 ✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/BATMAN_CINEMAHUB'>Tʜɪs ᴘᴇʀsᴏɴ</a>
 ✯ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
